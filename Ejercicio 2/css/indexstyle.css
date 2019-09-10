@@ -1,0 +1,177 @@
+* {
+
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+
+  background-image: url(../img/bg-2.png);
+
+}
+
+header,
+main,
+aside {
+
+  overflow: hidden;
+
+}
+
+header {
+
+  background-color: #F93F08;
+  width: 1140px;
+  margin: 0 auto;
+  padding: 1px 0px;
+}
+
+.logo,
+.menu {
+
+  float: left;
+
+}
+
+.menu,
+.login {
+
+  list-style-type: none;
+  overflow: hidden;
+}
+.menu1,
+.menu2,
+.menu3 {
+
+  float: left;
+
+}
+
+.login1,
+.register1 {
+
+  float: right;
+
+}
+
+a {
+
+  margin-right: 10px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.logo {
+
+  padding-top: 7px;
+  padding-left: 7px;
+}
+
+main {
+
+  float: left;
+  margin-right: 20px;
+  background-color: white;
+  width: 800px;
+  margin-top: 20px;
+
+}
+
+article{
+
+  float: left;
+
+}
+.product {
+
+  margin: 10px;
+
+}
+
+#p3,#p4,#p5,#p6 {
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.hiper {
+
+  background-color: #F93F08;
+  padding: 5px;
+
+}
+
+p {
+
+  width: 380px;
+
+}
+
+.imagen {
+
+  width: 380px;
+
+}
+
+.container {
+
+  width: 1140px;
+  overflow: hidden;
+  margin: 0 auto;
+
+}
+
+aside {
+
+  width: 320px;
+  float: left;
+  overflow: hidden;
+
+}
+
+.tituloAside {
+
+  background-color: white;
+  padding-left: 10px;
+  border: 0.5px solid grey;
+
+}
+
+.publicidad {
+  margin-top: 40px;
+
+}
+
+section {
+
+  overflow: hidden;
+
+}
+
+article {
+
+  background-color: white;
+  margin: 1px;
+}
+
+.e2p {
+
+  padding-top: 20px;
+
+}
+
+.mismaFoto {
+
+  float: left;
+  margin:5px;
+
+}
+
+.ultimo {
+
+  background-color: white;
+  background-size: 120%;
+}
